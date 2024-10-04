@@ -1,6 +1,6 @@
 # TCC - Ciência da Computação - 2026.1
 
-Trabalho de Conclusão de Curso da minha graduação em Ciência da Computação
+Arquitetura e Estratégias para Integração de Sistemas de Informação Gerenciais: Desafios e Soluções para Softwares Proprietários
 
 | Academico:    | [José A. Q. C. Gomes <code>@JoseComparotto</code>](https://github.com/JoseComparotto) | RA: 398439413098                 |
 | ------------- | ------------------------------------------------------------------------------------- | :------------------------------: |
@@ -9,3 +9,6 @@ Trabalho de Conclusão de Curso da minha graduação em Ciência da Computação
 | Curso:        | Ciência da Computação                                                                 | Noturno                          |
 | Artigo:       | Trabalho de Conslusão de Curso de Graduação                                           | Conslusão Prevista: jun/2026     |
 
+## Documentos
+
+- [Pré-Projeto: Proposta de Tema]()
