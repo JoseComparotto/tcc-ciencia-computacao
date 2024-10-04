@@ -1,0 +1,117 @@
+\documentclass[12pt, a4paper, onecolumn]{exam}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage[lmargin=71pt, tmargin=1.2in]{geometry}  %For centering solution box
+\usepackage{graphicx} % Required for inserting images
+\usepackage{lastpage}
+\usepackage{qrcode}
+\usepackage{hyperref}
+
+% Document's meta-data
+\newcommand{\subject}{Proposta de Tema de TCC}
+\newcommand{\authorfullname}{José Augusto Queiroz Comparotto Gomes}
+\newcommand{\authorname}{José A. Q. C. Gomes}
+\newcommand{\authorno}{398439413098}
+\newcommand{\professor}{Prof.ª Noiza Waltrick Trindade}
+\newcommand{\course}{Ciência da Computação — Noturno}
+\newcommand{\location}{Campo Grande-MS}
+\newcommand{\documentdate}{1º de outubro de 2024}
+\newcommand{\university}{Universidade Anhaguera — Uniderp}
+
+\author{\authorfullname}
+\title{\subject}
+
+% General page styling
+\lhead{\subject\\}
+\lfoot{\authorname}
+\cfoot{Página \thepage \ de \pageref{LastPage}}
+\rfoot{RA: \authorno}
+
+\thispagestyle{empty}   %For removing header/footer from page 1
+
+\begin{document}
+
+% Presenting page
+\begingroup  
+
+    \centering
+    \begin{figure}
+        \centering
+        \includegraphics[width=0.15\linewidth]{assets/uniderp.jpg}
+        \label{fig:university-logo}
+    \end{figure}
+    
+    \rule{\textwidth}{2pt}  \\[1em]
+    
+    \LARGE \subject     \\
+    
+    \vfill
+    
+    \large À \professor \\
+
+    \vfill
+    
+    \large \textbf{Título Proposto:} \\[1em]
+    \LARGE Arquitetura e Estratégias para Integração de Sistemas de Informação Gerenciais: Desafios e Soluções para Softwares Proprietários
+    
+    \vfill
+
+    \large \textbf{Acadêmico:} \\[1em]
+    \LARGE \authorfullname
+    
+    \vfill
+    
+    \large \course          \\
+    \large RA: \authorno    \\[1em]
+    
+    \rule{\textwidth}{2pt}  \\[1em]
+
+    \large \location        \\
+    \large \documentdate    \\
+
+    \pagebreak
+\endgroup
+
+\section{Introdução e Contextualização}
+
+No cenário atual de negócios, sistemas de informação gerenciais (SIG's) desempenham um papel crucial na tomada de decisões e no gerenciamento de recursos. No entanto, a integração de diferentes sistemas de informação, especialmente em ambientes corporativos que utilizam softwares proprietários, apresenta uma série de desafios técnicos e arquiteturais.
+
+Softwares proprietários, por sua natureza, muitas vezes não seguem padrões abertos ou práticas de desenvolvimento que facilitem a interoperabilidade. Essa falta de conformidade pode causar dificuldades significativas na integração entre sistemas, exigindo soluções criativas e técnicas para superar essas barreiras.
+
+\section{Objetivo Geral}
+
+Este trabalho procura investigar as características arquiteturais e técnicas desejáveis em um sistema de informação gerencial que facilite sua integração com outros sistemas. Ao longo da pesquisa, serão discutidos os principais obstáculos encontrados em softwares proprietários e apresentadas alternativas técnicas para viabilizar a integração, mesmo em cenários adversos.
+
+\section{Objetivos Específicos}
+
+\begin{itemize}
+    \item Identificar e descrever boas práticas arquiteturais que tornam um sistema mais amigável para integrações.
+
+    \item Analisar problemas comuns encontrados em softwares que não seguem essas práticas, explicando as dificuldades que surgem no processo de integração.
+
+    \item Apresentar soluções e alternativas para integrar sistemas legados ou proprietários que não implementam padrões abertos.
+
+    \item Realizar um estudo de caso hipotético ou prático, demonstrando a aplicação das soluções propostas.
+
+\end{itemize}
+
+\section{Justificativa}
+
+A integração entre sistemas de informação é uma necessidade crescente em organizações de todos os portes. No entanto, a falta de padrões e a rigidez de softwares proprietários dificultam a comunicação entre diferentes plataformas. Ao abordar esses desafios de forma teórica e prática, este trabalho contribuirá para o campo de Sistemas de Informação Gerenciais, fornecendo orientações para a criação de sistemas mais integráveis e, ao mesmo tempo, sugerindo soluções para os casos em que essas boas práticas não são seguidas.
+
+\section{Metodologia}
+
+O trabalho será de natureza exploratória e teórica, com foco em:
+\begin{enumerate}
+    \item[1.] Revisão bibliográfica sobre boas práticas de integração de sistemas, com ênfase em APIs RESTful, modularidade, modelagem de dados, e estratégias de autenticação.
+    
+    \item[2.] Análise de problemas técnicos comuns enfrentados na integração com sistemas proprietários e propostas de soluções baseadas em arquitetura de software e padrões de integração.
+    
+    \item[3.] Desenvolvimento de um estudo de caso que simule a integração de sistemas com diferentes características, demonstrando os desafios e soluções abordadas.
+\end{enumerate}
+\section{Considerações Finais}
+
+\sloppy
+Esta proposta visa explorar um campo relevante no contexto empresarial atual, trazendo contribuições tanto para a academia quanto para a prática profissional na área de integração de sistemas de informação gerenciais. O objetivo é fornecer orientações para o desenvolvimento de sistemas mais amigáveis à integração, ao mesmo tempo que aborda soluções práticas para integrar softwares proprietários que apresentam desafios específicos.
+
+\end{document}
