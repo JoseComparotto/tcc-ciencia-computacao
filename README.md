@@ -6,6 +6,6 @@ Trabalho de Conclusão de Curso da minha graduação em Ciência da Computação
 | ------------- | ------------------------------------------------------------------------------------- | :------------------: |
 | Curso:        | Ciência da Computação                                                                 | Noturno              |
 | Orientador(a):| *Nenhum*                                                                              |                      |
-| Artigo:       | Trabalho de Conslusão de Curso de Graduação                                           | Previsão de Conslusão: 2026.1     |
+| Artigo:       | Trabalho de Conslusão de Curso de Graduação                                           | Conslusão Prevista: 2026.1     |
 | Universidade: | Anhanguera-Uniderp - Matriz                                                           | Campo Grande, MS     |
 
