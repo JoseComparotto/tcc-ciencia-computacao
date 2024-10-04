@@ -12,3 +12,5 @@ Arquitetura e Estratégias para Integração de Sistemas de Informação Gerenci
 ## Documentos
 
 - [Pré-Projeto: Proposta de Tema](pre-projeto/main.pdf)
+
+- [Diário de Bordo](diario-bordo.md)
