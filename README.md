@@ -11,4 +11,4 @@ Arquitetura e Estratégias para Integração de Sistemas de Informação Gerenci
 | Tema:         | Arquitetura e Estratégias para Integração de Sistemas de Informação Gerenciais: | Desafios e Soluções para Softwares Proprietários |
 ## Documentos
 
-- [Pré-Projeto: Proposta de Tema]()
+- [01/10/2024] - [Pré-Projeto: Proposta de Tema](pre-projeto/main.pdf)
