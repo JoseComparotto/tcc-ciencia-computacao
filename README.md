@@ -8,7 +8,7 @@ Arquitetura e Estratégias para Integração de Sistemas de Informação Gerenci
 | Universidade: | Anhanguera-Uniderp - Matriz                                                           | Campo Grande, MS                 |
 | Curso:        | Ciência da Computação                                                                 | Noturno                          |
 | Artigo:       | Trabalho de Conslusão de Curso de Graduação                                           | Conslusão Prevista: jun/2026     |
-
+| Tema:         | Arquitetura e Estratégias para Integração de Sistemas de Informação Gerenciais: Desafios e Soluções para Softwares Proprietários |
 ## Documentos
 
 - [Pré-Projeto: Proposta de Tema]()
